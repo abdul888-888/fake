@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "FacebookQtDesktop",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "FacebookQtDesktop::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-FacebookQtDesktop-Debug-5ba14e31f3ecd79e60bf.json",
+					"name" : "FacebookQtDesktop",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "FacebookQtDesktop_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-FacebookQtDesktop_autogen-Debug-8cf818204c6e75dd13ef.json",
+					"name" : "FacebookQtDesktop_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "FacebookQtDesktop_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-FacebookQtDesktop_autogen_timestamp_deps-Debug-bf6de3f36e6b5ff3a4f8.json",
+					"name" : "FacebookQtDesktop_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/HP/Documents/Codex/2026-06-27/computer-plugin-computer-use-openai-bundled/outputs/FacebookQt/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug",
+		"source" : "C:/Users/HP/Documents/Codex/2026-06-27/computer-plugin-computer-use-openai-bundled/outputs/FacebookQt"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

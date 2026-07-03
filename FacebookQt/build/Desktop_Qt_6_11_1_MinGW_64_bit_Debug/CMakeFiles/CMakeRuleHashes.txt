@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+591d6212a7266bcb607db73b3a6fd15a CMakeFiles/FacebookQtDesktop_autogen
+e8f59752672b7e1cf0657dfebfc835cc FacebookQtDesktop_autogen/EWIEGA46WW/qrc_resources.cpp
+cd32c6ce9d68447c498c25e32480afa2 FacebookQtDesktop_autogen/timestamp

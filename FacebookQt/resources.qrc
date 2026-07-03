@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/styles/light.qss</file>
+        <file>Resources/icons/app.svg</file>
+        <file>Resources/icons/home.svg</file>
+        <file>Resources/icons/feed.svg</file>
+        <file>Resources/icons/profile.svg</file>
+        <file>Resources/icons/friends.svg</file>
+        <file>Resources/icons/search.svg</file>
+        <file>Resources/icons/bell.svg</file>
+        <file>Resources/icons/settings.svg</file>
+        <file>Resources/icons/message.svg</file>
+    </qresource>
+</RCC>
